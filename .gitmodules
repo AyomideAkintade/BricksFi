@@ -1,0 +1,12 @@
+[submodule "BricksFi-Frontend"]
+	path = BricksFi-Frontend
+	url = git@github.com:AyomideAkintade/BricksFi-Frontend.git
+[submodule "BricksFi-Backend"]
+	path = BricksFi-Backend
+	url = git@github.com:AyomideAkintade/BricksFi-Backend.git
+[submodule "Bricks-Lib"]
+	path = Bricks-Lib
+	url = git@github.com:AyomideAkintade/bricks-lib.git
+[submodule "BricksFi-Program"]
+	path = BricksFi-Program
+	url = git@github.com:AyomideAkintade/BricksFi-Solana-program.git
